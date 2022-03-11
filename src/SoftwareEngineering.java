@@ -17,5 +17,8 @@ public class SoftwareEngineering
 
         z = x + y;
         System.out.println("The result of your numbers added is: " + z + ".");
+
+        z = x - y;
+        System.out.println("The result of your numbers subtracted is " + z + ".");
     }
 }
